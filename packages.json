@@ -1,6 +1,19 @@
 {
     "packages": {
         "carboncreative/wordpress": {
+            "3.9-RC1": {
+                "name": "carboncreative/wordpress",
+                "version": "3.9-RC1",
+                "version_normalized": "3.9.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/wordpress-3.9-RC1.zip"
+                },
+                "require": {
+                    "fancyguy/webroot-installer": "~1.1.0"
+                },
+                "type": "webroot"
+            },
             "3.8.2": {
                 "name": "carboncreative/wordpress",
                 "version": "3.8.2",
