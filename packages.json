@@ -1,6 +1,19 @@
 {
     "packages": {
         "carboncreative/wordpress": {
+            "4.0-beta1": {
+                "name": "carboncreative/wordpress",
+                "version": "4.0-beta1",
+                "version_normalized": "4.0.0.0-beta1",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/wordpress-4.0-beta1.zip"
+                },
+                "require": {
+                    "fancyguy/webroot-installer": "~1.1.0"
+                },
+                "type": "webroot"
+            },
             "3.9.1": {
                 "name": "carboncreative/wordpress",
                 "version": "3.9.1",
