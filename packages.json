@@ -14,7 +14,7 @@
                 },
                 "type": "webroot"
             },
-            "3.9.2": {
+            "3.9.1": {
                 "name": "carboncreative/wordpress",
                 "version": "3.9.2",
                 "version_normalized": "3.9.2.0",
